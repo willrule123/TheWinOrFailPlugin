@@ -1,0 +1,4 @@
+TheWinOrFailPlugin
+==================
+
+my first plugin :)
